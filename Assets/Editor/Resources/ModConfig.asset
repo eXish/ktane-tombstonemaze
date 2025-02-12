@@ -16,8 +16,8 @@ MonoBehaviour:
   author: eXish
   description: "Navigate two mazes at once to block your opponent and find the goal.\r\n\r\nHTML:
     https://ktane.timwi.de/HTML/Tombstone%20Maze.html\r\nPDF: https://ktane.timwi.de/PDF/Tombstone%20Maze.pdf\r\n\r\nTombstone
-    Maze (TombstoneMazeModule) v1.3.1\nModule by Anonymous, maintained by eXish\r\nTwitch
+    Maze (TombstoneMazeModule) v1.4\nModule by Anonymous, maintained by eXish\r\nTwitch
     Plays supported"
-  version: 1.3.1
+  version: 1.4
   outputFolder: build
   previewImage: {fileID: 2800000, guid: ab9f56e3221820047a6f4c457f8e769c, type: 3}
